@@ -1,6 +1,8 @@
-![LOGO](/repository/DivvyUp/logo.png?raw=true "Divvy Up logo")
-#Divvy Up
-
+<div style="overflow:hidden">
+  <img src="logo.png" height="150px" style="float:left;  line-height:300px; ">
+  #Divvy Up
+  <h1 style="float:left; line-height:300px;">Divvy Up</h1>
+</div>
 ##This project is an integrated web management system that can be used and managed by a single program by integrating the automatic settlement function (splitting bills amongst a group of people) with a member management system
 
 ## 본 시스템은자동 정산 기능과 회원 관리 시스템을 통합하여 하나의 프로그램으로 이용 및 관리할 수 있는 통합 형 웹 관리 시스템이다.

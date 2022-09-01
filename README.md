@@ -1,14 +1,14 @@
 
-  <img src="logo.png" width="200px" align="right">
+<img src="logo.png" width="200px" align="right">
   
-# Divvy Up
-  
-## This project is an integrated web management system that can be used and managed by a single program by integrating the automatic settlement function (splitting bills amongst a group of people) with a member management system
+<h1 style="font-size:3em;"> DIVVY UP</h1>
 
-## 본 시스템은자동 정산 기능과 회원 관리 시스템을 통합하여 하나의 프로그램으로 이용 및 관리할 수 있는 통합 형 웹 관리 시스템이다.
+*ENG* : This project is an integrated web management system that can be used and managed by a single program by integrating the automatic settlement function (splitting bills amongst a group of people) with a member management system
+
+*KOR* : 본 시스템은자동 정산 기능과 회원 관리 시스템을 통합하여 하나의 프로그램으로 이용 및 관리할 수 있는 통합 형 웹 관리 시스템이다.
 
 
-## Resources
+### Resources
 
 <ul>
   <li>OS - Windows 10 home</li>

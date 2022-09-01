@@ -1,7 +1,6 @@
-<div style="overflow:hidden">
-  <img src="logo.png" height="150px" style="float:left;  line-height:300px; ">
-  #Divvy Up
-  <h1 style="float:left; line-height:300px;">Divvy Up</h1>
+<div style="overflow:hidden;">
+  <img src="logo.png" height="150px" style="float:left;">
+  <p style="font-size:48pt; float:left; ">Divvy Up</p>
 </div>
 ##This project is an integrated web management system that can be used and managed by a single program by integrating the automatic settlement function (splitting bills amongst a group of people) with a member management system
 
